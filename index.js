@@ -1,5 +1,5 @@
 document.getElementById("myButton").onclick = function() {
-	alert("This is a JavaScript powered alert.");
+	alert("Kamil Lewicki, born 25/05/1996");
 };
 document.getElementById("moreInfoButton1").onclick = function() {
 	alert("More info provided.");
